@@ -12,7 +12,7 @@ The AutoCutter EXE was designed on Windows 10 64-bit and should function in win1
 The Py file was written in python 3.8 and should function accordingly as long as appropriate libraries are installed.
 
 How to Use:
-The input guide image available in AutoCutter under [Help > Input Guide] and in this repository describe the meaning of each input parameter,
+The input guide image available in AutoCutter under [Help > Input Guide] and in this repository describes the meaning of each input parameter,
 while default values and units are available as tooltips when hoovering over each input. All parameters are in cm except [px per cm] and [trodesPerRow].
 
 Credits:
