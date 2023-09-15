@@ -1,5 +1,9 @@
 # AutoCutter
 
+WARNING:
+Recent patches to the Silhouette Studio software have changed the tracing algorithm such that all cuts have increased in width and it is no longer able to cut precise electrodes.
+The downloader for Silhouette studio version V4.4.554, for which this method was written, is now available on this repository. 
+
 Description:
 AutoCutter is a tool for generating image files to serve as inputs into cutting machines (such as the Silhouette Cameo) to prepare precise carbon paper electrodes.
 It takes a variety of input values such as electrode number, length, functional area, etc. and converts these values into pixel positions.
